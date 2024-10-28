@@ -1,22 +1,12 @@
 {
   "name": "pro041",
   "version": "1.0.0",
-  "type": "commonjs",
-  "description": "This project does not the last!",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/ivantarabanovych"
-  },
-  "keywords": [
-    "[]"
-  ],
-  "author": "Ivan",
+  "keywords": [],
+  "author": "",
   "license": "ISC",
-  "dependencies": {
-    "lodash": "^4.17.21"
-  }
+  "description": ""
 }
